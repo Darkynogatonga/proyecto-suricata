@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3, h5 {
+  font-weight: 700;
+}
+
+p, li{
+  font-weight: 500;
+}
+
+.bg-pink {
+  background-color: #e83e8c;
+}
+
+.gris {
+  color: #707070;
+}
+
+.logo {
+  height: 4rem;
+  width: auto;  
+}
